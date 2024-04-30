@@ -20,7 +20,7 @@ function Widgets() {
 
         <TwitterTimelineEmbed
           sourceType="profile"
-          screenName="kmmtmm92"
+          screenName="ethereum"
           options={{ height: 800 }}
         />
 
